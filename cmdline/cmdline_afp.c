@@ -25,6 +25,7 @@ static char curdir[AFP_MAX_PATH];
 static struct afp_url url;
 
 //int full_url=0;
+extern int full_url;
 
 #define DEFAULT_DIRECTORY "/"
 
